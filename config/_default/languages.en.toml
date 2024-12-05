@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Isaac Fletcher"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  logo = "img/logo.png"
+
+[params.author]
+  name = "Isaac Fletcher"
+  email = "isfletch@proton.me"
+  image = "img/me.jpg"
+  imageQuality = 96
+  headline = "Aspiring Security Professional"
+  links = [
+      { email = "mailto:isfletch@proton.me" },
+      { github = "https://github.com/isaac-fletcher" },
+      { linkedin = "https://linkedin.com/in/isaac-fletcher" },
+  ]
